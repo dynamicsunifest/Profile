@@ -14,7 +14,7 @@ Zenith School of Computer SStudies **(2008-2009)** | Diploma Engineering & Manag
 Oghenevo Memorial Intl. College **(2004-2007)** | West African Senior School Certificate (WASSCE)
 
 ##IT Skills
-* ![C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+* [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 * PHP with Laravel
 * Web Technology
    * HTML5 & CSS3
